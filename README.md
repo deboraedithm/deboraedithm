@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=70A5FD&left=true&vCenter=true&width=435&lines=Hi+👋+My+name+is+Debora!;Nice+to+meet+you+😊" />
+## Hi 👋 My name is Debora! Nice to meet you 😊
 <br>
 <img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTIyemVjeHBpajNoNHdlbDc0aDUwZjhjOXlwNThtNWI0MGQ1czZ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="fun gif" />
 <p> ✨ I'm a creative dev, future fullstack wizard 🧙‍♀️ and psychologist turned tech explorer from São Bernardo do Campo, SP 💻🌆 </p>
@@ -16,9 +16,9 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=70A5FD&center=true&vCenter=true&width=435&lines=Tech+Spells+I'm+Casting+🔮" />
-</p>
+<h3 align="center">
+  Tech Spells I'm Casting 🔮
+</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -34,10 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 <br>
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=70A5FD&center=true&vCenter=true&width=435&lines=Thanks+for+passing+by+💜;Let's+build+cool+things+together!+%F0%9F%9A%80" />
-</p>
+<h4 align="center">
+  Thanks for passing by 💜 Let's build cool things together!
+</h4>
 
 <div align="center">
   <a href="mailto:edith.dev@tutamail.com?subject=I%20want%20to%20contact%20you,%20Debs!"><img src="https://img.shields.io/static/v1?message=E-Mail&logo=tutamail&label=&color=850122&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutamail logo"/></a>
