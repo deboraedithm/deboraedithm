@@ -1,52 +1,70 @@
-## Hi 👋 My name is Debora! Nice to meet you 😊
-<br>
-<img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTIyemVjeHBpajNoNHdlbDc0aDUwZjhjOXlwNThtNWI0MGQ1czZ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="fun gif" />
-<p> ✨ I'm a creative dev, future fullstack wizard 🧙‍♀️ and psychologist turned tech explorer from São Bernardo do Campo, SP 💻🌆 </p>
-<p> 🎮 I grew up gaming with my dad — that’s how my tech love story began!</p>
-<p>🚀 My dream? Build things that change lives. One line of code at a time.</p>
-<br>
+# Hi, I'm Debora! 👋
 
-###
-<br>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deboraedithm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deboraedithm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<br>
-<br>
+### Psychologist turned Fullstack Developer Explorer
+I am a career transitioner bridging the gap between human behavior and technology. My goal is to create empathetic and impactful digital solutions, one line of code at a time.
 
-<h3 align="center">
-  Tech Spells I'm Casting 🔮
-</h3>
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-<br>
-<br>
+### ⚡ About Me
 
-<h4 align="center">
-  Thanks for passing by 💜 Let's build cool things together!
-</h4>
+- 📍 **Location:** São Bernardo do Campo, SP - Brazil
+- 🎮 **The Backstory:** My tech journey started as a "Player 2," gaming with my dad. That curiosity evolved into a passion for building things that change lives.
+- 🚀 **Mission:** To build meaningful software that makes a difference.
+- 🌱 **Learning:** Currently diving deep into Software development and expanding my "spellbook" with new languages.
 
-<div align="center">
-  <a href="mailto:edith.dev@tutamail.com?subject=I%20want%20to%20contact%20you,%20Debs!"><img src="https://img.shields.io/static/v1?message=E-Mail&logo=tutamail&label=&color=850122&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutamail logo"/></a>
-  <a href="https://www.linkedin.com/in/debora-edith/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-  <a href="https://deboraedithm.github.io/edith-dev/" target="_blank"><img src="https://img.shields.io/badge/my%20portfolio-70A5FD" height="35" alt="portfolio"/></a>
+---
+
+### 🔮 Tech Spells (My Stack)
+
+**Frontend & Frameworks**
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28">
 </div>
 
-###
-<br clear="both">
+**Backend & Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+</div>
 
-###
+**Mobile & Others**
+<div align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="28">
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deboraedithm&theme=dracula&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats-two-no-bg.vercel.app/api/top-langs/?username=deboraedithm&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="left">
+  <a href="mailto:deboraedithm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/debora-edith">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://deboraedithm.github.io/edith-dev/">
+    <img src="https://img.shields.io/badge/Portfolio-6E5494?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+_“Thanks for passing by 💜 Let's build cool things together!”_
