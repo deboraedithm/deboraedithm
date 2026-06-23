@@ -44,6 +44,8 @@ I am a career transitioner bridging the gap between human behavior and technolog
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deboraedithm&theme=dracula&hide_border=true" />
+
+  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deboraedithm&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
