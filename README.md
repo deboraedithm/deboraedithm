@@ -36,7 +36,6 @@ I am a career transitioner bridging the gap between human behavior and technolog
 **Mobile & Others**
 <div align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="28">
 </div>
 
 ---
