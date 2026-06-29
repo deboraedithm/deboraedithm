@@ -43,10 +43,9 @@ I am a career transitioner bridging the gap between human behavior and technolog
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deboraedithm&theme=dracula&hide_border=true" />
 
-  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deboraedithm&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=deboraedithm&theme=dracula)](https://git.io/streak-stats)
+  [![Card de Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deboraedithm&theme=dracula)](https://github.com/vn7n24f1tr1/github-profile-summary-cards)
 </div>
 
 ---
