@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=190&section=header&text=Debora%20Edith&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Psychologist%20%E2%86%92%20Fullstack%20Developer&descSize=18&descAlignY=58" alt="Debora Edith — Psychologist turned Fullstack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=190&section=header&text=Debora%20Edith&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Mobile%20Explorer&descSize=18&descAlignY=58" alt="Debora Edith — Full-Stack Developer exploring mobile development" />
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=A855F7&center=true&vCenter=true&width=600&lines=Human-first+thinking%2C+builder's+curiosity;Player+Two+since+day+one+%F0%9F%8E%AE;Turning+ideas+into+useful+things%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=A855F7&center=true&vCenter=true&width=600&lines=Full-stack+developer%2C+mobile+in+the+making;Building+for+web+%26+mobile+%F0%9F%93%B1;Player+Two+since+day+one+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 ### Hey, I'm Debora 👋
 
-**Psychologist turned Fullstack Developer Explorer**
+**Full-Stack Developer | Growing into Mobile Development**
 
-I’m fascinated by people, how things work, and the little details that make an experience feel *right*. Psychology taught me to look closer; coding lets me turn that curiosity into useful, human-centered digital experiences.
+I build across the stack and am now deepening my focus on mobile development with Kotlin and Swift. I love turning ideas into thoughtful, useful experiences—whether they live on the web or in your pocket.
 
 [![Email](https://img.shields.io/badge/EMAIL-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deboraedithm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-edith)
@@ -18,14 +18,15 @@ I’m fascinated by people, how things work, and the little details that make an
 
 ---
 
-### 🕹️ Player Two Origin Story
+### 🕹️ Player Two Energy
 
-My tech journey started with a controller in my hands, gaming with my dad. That early curiosity grew into a love of building things—and a mission to make technology feel a little more thoughtful and human.
+My curiosity started with a controller in my hands, gaming with my dad. These days, I still love exploring new worlds—some have quests, others have code.
 
 | 🧭 My quest | ✨ Current chapter |
 |---|---|
-| **Mission** | Build meaningful software that makes a difference. |
-| **Learning** | Exploring software development and adding new skills to my spellbook. |
+| **Focus** | Full-stack development, with a growing focus on mobile apps. |
+| **Mobile toolkit** | Kotlin · Swift |
+| **Mission** | Build useful, thoughtful software for everyday life. |
 | **Based in** | São Bernardo do Campo, SP · Brazil 🇧🇷 |
 
 ### 🧙‍♀️ Inventory
