@@ -55,7 +55,7 @@ My curiosity started with a controller in my hands, gaming with my dad. These da
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deboraedithm&theme=dracula)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 [![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deboraedithm&theme=dracula)](https://github.com/vn7n24f1tr1/github-profile-summary-cards)
 
 </div>
