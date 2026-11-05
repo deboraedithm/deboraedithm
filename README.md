@@ -22,12 +22,16 @@ I build across the stack and am now deepening my focus on mobile development wit
 
 My curiosity started with a controller in my hands, gaming with my dad. These days, I still love exploring new worlds—some have quests, others have code.
 
+<div align="center">
+  
 | 🧭 My quest | ✨ Current chapter |
 |---|---|
 | **Focus** | Full-stack development, with a growing focus on mobile apps. |
 | **Mobile toolkit** | Kotlin · Swift |
 | **Mission** | Build useful, thoughtful software for everyday life. |
 | **Based in** | São Bernardo do Campo, SP · Brazil 🇧🇷 |
+
+</div>
 
 ### 🧙‍♀️ Inventory
 
@@ -55,8 +59,9 @@ My curiosity started with a controller in my hands, gaming with my dad. These da
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-[![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deboraedithm&theme=dracula)](https://github.com/vn7n24f1tr1/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deboraedithm&theme=tokyonight&animation=sequence&duration=5&name=deboraedithm)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deboraedithm&theme=tokyonight&animation=sequence&duration=5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deboraedithm&theme=tokyonight&animation=sequence&duration=5)
 
 </div>
 
